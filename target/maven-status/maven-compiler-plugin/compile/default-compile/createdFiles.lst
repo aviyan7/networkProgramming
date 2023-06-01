@@ -1,2 +1,5 @@
-org\example\Main.class
 org\example\ip.class
+org\example\encode.class
+org\example\Main.class
+org\example\url.class
+org\example\decode.class
